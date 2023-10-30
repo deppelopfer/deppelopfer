@@ -48,8 +48,8 @@ programming-languages = [
 Feel free to reach out to me using the links below.
 
 <p align="center">
-  <a href="mailto:sophy@team.dwarslooper.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/govind-kp"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a>
+  <a href="mailto:sophy@team.dwarslooper.com"><img src="https://www.svgrepo.com/show/232338/push-pin-edit-tools.svg" height="40" width="40" alt="Email"/></a>
+  <a href="https://discord.com/channels/@me/1162686571598839869"><img src="https://www.svgrepo.com/show/232331/conversation.svg" height="40" width="40" alt="Discord"/></a>
 </p>
 
 <p align="left">
