@@ -52,7 +52,7 @@ Feel free to reach out to me using the links below.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmemidori&show_icons=true" alt="midoriinc" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=deppelopfer&show_icons=true" alt="deppelopfer" /> 
 
 </p>
 <p align="left"> </p>
