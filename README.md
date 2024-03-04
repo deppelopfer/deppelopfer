@@ -10,7 +10,7 @@ Here's my `Manifest.toml`:
 
 [personal]
 name = 'Sophy'
-city = 'Near Hamburg'
+city = 'Near Bremen'
 email = 'sophy "at" team.dwarslooper.com'
 
 [team]
@@ -40,8 +40,7 @@ programming-languages = [
   'JS',
   'unity/c#',
   'php',
-  'go',
-  'kotlin',
+  'brainfuck'
 ]
 
 ```
