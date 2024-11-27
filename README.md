@@ -44,15 +44,3 @@ programming-languages = [
 ]
 
 ```
-Feel free to reach out to me using the links below.
-
-<p align="center">
-  <a href="mailto:sophy@team.dwarslooper.com"><img src="https://www.svgrepo.com/show/232338/push-pin-edit-tools.svg" height="40" width="40" alt="Email"/></a>
-  <a href="https://discord.com/channels/@me/1162686571598839869"><img src="https://www.svgrepo.com/show/232331/conversation.svg" height="40" width="40" alt="Discord"/></a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deppelopfer&show_icons=true" alt="deppelopfer" /> 
-
-</p>
-<p align="left"> </p>
