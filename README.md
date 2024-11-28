@@ -14,9 +14,10 @@ city = 'Near Bremen'
 email = 'sophy "at" team.dwarslooper.com'
 
 [team]
-team-name = 'Dwarslooper-Team'
-team-rank = 'Organisation'
-discord-server = 'dsc.gg/dwars'
+team-name = 'Cactus Team'
+team-rank = 'Developer'
+website = 'https://cactusmod.xyz'
+discord-server = 'https://cactusmod.xyz/go/?discord'
 
 [professional]
 currently-employed = false
